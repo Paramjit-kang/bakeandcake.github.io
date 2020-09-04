@@ -125,7 +125,7 @@ body {
 /* ---------------------- Header ----------------------------- */
 
 .header {
-  background-image: url("Images/new-psd-bg-min.jpg");
+  background-image: url(Images/new-psd-bg-min.jpg);
   grid-column: nav-start/ nav-end;
   background-position: center;
   background-size: cover;
@@ -729,7 +729,7 @@ h2::after {
       rgba(255, 255, 255, 0.8),
       rgba(255, 255, 255, 0.8)
     ),
-    url(/Images/new-review-bg-min.jpg);
+    url(Images/new-review-bg-min.jpg);
   grid-column: nav-start/ nav-end;
   font-family: "Yrsa";
   color: #fff;
